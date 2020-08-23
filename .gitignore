@@ -1,0 +1,10 @@
+/rust/*/target/**
+/rust/*/Cargo.lock
+
+
+/bookshelf/public/assets*
+/bookshelf/tmp
+/bookshelf/.env
+/bookshelf/.env.local
+/bookshelf/.env.*.local
+/bookshelf/node_modules
